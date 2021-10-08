@@ -3,3 +3,4 @@ hai
 go
 to school
 right
+command

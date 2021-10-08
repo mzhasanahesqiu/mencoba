@@ -1,3 +1,3 @@
 # mencoba
 - Mau'idzoh Hasanah
-  ^ Haloo
+  ^Haloo
